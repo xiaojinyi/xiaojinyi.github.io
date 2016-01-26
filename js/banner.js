@@ -26,7 +26,7 @@ var api;
 jQuery(document).ready(function() {
 	api =  jQuery('.fullwidthbanner').revolution(
 		{
-			delay:9000,
+			delay:4000,
 			startheight:450,
 			startwidth:1120,
 
